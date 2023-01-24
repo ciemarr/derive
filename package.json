@@ -13,6 +13,9 @@
   },
   "author": "Erik Price <github@erikprice.net>",
   "license": "MIT",
+  "engines": {
+    "node": "16"
+  },
   "dependencies": {
     "exif-js": "^2.3.0",
     "fit-file-parser": "^1.6.18",
